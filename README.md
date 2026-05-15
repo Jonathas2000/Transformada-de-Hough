@@ -85,3 +85,7 @@ from google.colab import files
 #compacta a pasta resultados
 shutil.make_archive('resultados', 'zip', 'resultados')
 files.download("resultados.zip")
+
+
+
+
